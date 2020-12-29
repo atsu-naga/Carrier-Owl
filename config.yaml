@@ -1,11 +1,14 @@
 # slack id
-slack_id: 'your webhook url'
+slack_id: https://hooks.slack.com/services/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
 
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'math'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        quandle: 3
+        quandles: 3
+        knot invariant: 3
+        knot invariants: 3
+        jones polynomial: 2
+        knot: 2
